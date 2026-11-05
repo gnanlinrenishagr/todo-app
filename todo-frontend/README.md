@@ -11,7 +11,7 @@ Responsive React frontend for the task manager API.
 
 ## Setup
 
-Requires Node.js 18+ and the backend running on http://127.0.0.1:8000 (see `../backend/README.md`).
+Requires Node.js 18+ and the backend running on http://127.0.0.1:8000 (see `../todo-backend/README.md`).
 
 ```bash
 npm install
